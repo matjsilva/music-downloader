@@ -15,9 +15,9 @@ Base requirements:
 
 If you have Python 3.7+ installed, all you need to do is follow these steps:
 
-`> git clone https://github.com/matjsilva/music-downloader`
-`> cd music-downloader`
-`> python install.py`
+`> git clone https://github.com/matjsilva/music-downloader`<br>
+`> cd music-downloader`<br>
+`> python install.py`<br>
 
 Then, you just need to:
 
